@@ -8,7 +8,7 @@ Yet another Hacker News mobile client powered by Flutter.
 
 **Point People:** [Sasha Prokhorenko](https://twitter.com/minikin)
 
-**CI:** [![Build Status](https://app.bitrise.io/app/5c3f8eac2457fc7c/status.svg?token=3Z3bqqM0xCYxNzOpgO2SvA)](https://app.bitrise.io/app/5c3f8eac2457fc7c)
+**CI Status:** [![Build Status](https://app.bitrise.io/app/5c3f8eac2457fc7c/status.svg?token=3Z3bqqM0xCYxNzOpgO2SvA)](https://app.bitrise.io/app/5c3f8eac2457fc7c)
 
 ---
 
