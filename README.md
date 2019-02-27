@@ -1,16 +1,45 @@
-# flutter_hacker_news
+# Hacker News Mobile App
 
-A new Flutter project.
+Yet another Hacker News mobile client powered by Flutter.
 
-## Getting Started
+## Meta
 
-This project is a starting point for a Flutter application.
+**State:** development
 
-A few resources to get you started if this is your first Flutter project:
+**Point People:** [Sasha Prokhorenko](mailto: djminikin@gmail.com)
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+**CI:** [![Codemagic build status](https://api.codemagic.io/apps/5c769d3c989e5e001fcb55ab/5c769d3c989e5e001fcb55aa/status_badge.svg)](https://codemagic.io/apps/5c769d3c989e5e001fcb55ab/5c769d3c989e5e001fcb55aa/latest_build)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+---
+
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Running the project](#running-the-project)
+- [Development](#development)
+- [Running Tests](#running-tests)
+- [Deployment](#deployment)
+- [FAQ](#faq)
+
+## Requirements
+
+- Flutter 1.2.2+
+- Dart 2.2+
+- Xcode 10.0+
+- Androind Studio 3.3.1 +
+- iOS 11.0+ / macOS 10.13+ / Android SDK 16+
+- CocoaPods 1.5.0 +
+
+## Installation
+
+## Dependencies
+
+## Running the project
+
+## Development
+
+## Running Tests
+
+## Deployment
+
+## FAQ
+x
